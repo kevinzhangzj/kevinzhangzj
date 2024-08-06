@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a _full-time college student_, major in _Software Engineering_.
+
+I prefer to use _open source software_, and I am willing to contribute.
